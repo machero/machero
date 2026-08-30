@@ -1,7 +1,5 @@
 ### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=machero&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![machero's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=machero&layout=compact&hide_border=true&langs_count=10)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=machero)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **machero/machero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
