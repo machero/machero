@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=machero)](https://github.com/stats-organization/github-stats-extended)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=machero&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=calm_pink)](https://github-stats-extended.vercel.app/api?username=machero&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=calm_pink)
 <!--
 **machero/machero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-![Metrics](https://metrics.lecoq.io/machero?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
